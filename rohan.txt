@@ -1,0 +1,1 @@
+This is dele txt file to show fileSystem module use in node.js
